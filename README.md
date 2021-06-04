@@ -1,4 +1,4 @@
-# ble-communication
+# Bluetooth-Low-Energy (Arduino)
 
 This project aimed to design, implement, and observe the functionality of a Bluetooth Low Energy (BLE) network. The network is constructed using sensors, each of which reports to a central gateway node that manages the results. In addition, the gateway node hosts a CoAP server that allows wireless devices to read the data over Wi-Fi. 
 
